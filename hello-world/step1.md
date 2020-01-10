@@ -83,10 +83,10 @@ All headings seem to look exactly the same, which is a bit crap.
 
 Now let's have a go at linking:
 
-[link to bbc] (http://www.bbc.co.uk)
+[bbc] (http://www.bbc.co.uk)
 
-[link to bbc] [bbc]
-[link to google] [google]
+[bbclink] [bbc]
+[google link] [google]
 
 
 We could then have a list of links at the bottom of the page:
@@ -110,26 +110,26 @@ However, what if I want to create a complex table.  I guess I could use a HTML t
 
 <table class="tg">
   <tr>
-    <th class="tg-0pky" colspan="2"></th>
-    <th class="tg-0lax"></th>
-    <th class="tg-0lax"></th>
+    <th class="tg-0pky" colspan="2">This spans a column</th>
+    <th class="tg-0lax">This </th>
+    <th class="tg-0lax">That</th>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">a</td>
+    <td class="tg-0lax">b</td>
+    <td class="tg-0lax">c</td>
+    <td class="tg-0lax">d</td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax" rowspan="2"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">a</td>
+    <td class="tg-0lax">b</td>
+    <td class="tg-0lax" rowspan="2">This spans a row</td>
+    <td class="tg-0lax">d</td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">a</td>
+    <td class="tg-0lax">b</td>
+    <td class="tg-0lax">c</td>
   </tr>
 </table>
 
