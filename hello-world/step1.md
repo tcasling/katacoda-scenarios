@@ -48,7 +48,10 @@ One of the issues in mediawiki is that the numbering often restarts and you need
 
 1.  Here is the second item in my list.
 
-1.  And the third
+1.  And the third and this one has a sub-list
+    1. This is a sublist
+    1. Another item in my sublist. This is `inline code`
+
 
 
 
@@ -63,6 +66,8 @@ Second Term
 Unfortunately that didn't result in a HTML <dl> being created
 
 Now let's have a go at linking:
+
+[link to bbc] (http://www.bbc.co.uk)
 
 [link to bbc] [bbc]
 [link to google] [google]
