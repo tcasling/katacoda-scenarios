@@ -85,15 +85,17 @@ Now let's have a go at linking:
 
 [bbc](http://www.bbc.co.uk)
 
-[bbclink][bbc]
-[google link][google]
+[bbclink][1]
+[googlelink][2]
 
 
 We could then have a list of links at the bottom of the page:
 
-[bbc](http://www.bbc.co.uk)
-[google](http://www.google.co.uk)
+[1](http://www.bbc.co.uk)
+[2](http://www.google.co.uk)
 
+
+Link to resource on the same server
 
 ### What about Tables
 
@@ -133,3 +135,4 @@ However, what if I want to create a complex table.  I guess I could use a HTML t
   </tr>
 </table>
 
+Can we insert a HTML table in MediaWiki?  I need to try.
