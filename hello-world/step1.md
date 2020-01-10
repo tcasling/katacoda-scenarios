@@ -91,8 +91,8 @@ Now let's have a go at linking:
 
 We could then have a list of links at the bottom of the page:
 
-[1](http://www.bbc.co.uk)
-[2](http://www.google.co.uk)
+[1]: http://www.bbc.co.uk
+[2]: http://www.google.co.uk
 
 
 Link to resource on the same server
