@@ -35,9 +35,22 @@ Now for ordered lists you can use numbers:
 1. You can use any number
 1. But I think it would look odd in a document
 1. If you try to get the numbering right
-1. But then have to st
 
 The _daringfireball guide_ says to always start them at 1 in case numbering restart is allowed in the future.
+
+One of the issues in mediawiki is that the numbering often restarts and you need to use #: to keep it going. But if you insert a figure it will restart, so you end up having to revert to <ol>
+
+1. Here is a list with a second paragraph indented by 4 spaces
+
+    This is the second paragraph of my list.  It seems to wrap automatically in my editor, which is nice
+
+    <this is a codeblock within my list>
+
+1.  Here is the second item in my list.
+
+1.  And the third
+
+
 
 I really like using definition lists. However, I don't think they are allowed.  Let's see:
 
