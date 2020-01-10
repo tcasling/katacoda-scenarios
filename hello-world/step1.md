@@ -96,7 +96,10 @@ We could then have a list of links at the bottom of the page:
 [2]: http://www.google.co.uk
 
 
-Link to resource on the same server
+Link to resource on the same server.  
+
+[LinkToNext](Next)
+[LinkToStep](step2)
 
 ### What about Tables
 
