@@ -103,6 +103,14 @@ Link to resource on the same server.
 
 <a href="#step-2">Go to Step 2</a>
 
+I think I will have to ask Katacoda support:
+
+*how to link between steps
+
+*if there is a community
+
+*
+
 ### What about Tables
 
 I've copied this from https://guides.github.com/features/mastering-markdown/
