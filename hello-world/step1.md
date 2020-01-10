@@ -50,7 +50,7 @@ One of the issues in mediawiki is that the numbering often restarts and you need
 
 1.  And the third and this one has a sub-list
     1. This is a sublist
-    1. Another item in my sublist. This is `inline code`.  I really like this rather than having to put \<code> markers.  However, the sublist still uses arabic numbers.  It would be nice to be able to change.
+    1. Another item in my sublist. This is `inline code`.  I really like this rather than having to put code markers.  However, the sublist still uses arabic numbers.  It would be nice to be able to change.
 
 
 #### Defintion Lists - Heading 4
