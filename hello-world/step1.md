@@ -50,10 +50,10 @@ One of the issues in mediawiki is that the numbering often restarts and you need
 
 1.  And the third and this one has a sub-list
     1. This is a sublist
-    1. Another item in my sublist. This is `inline code`
+    1. Another item in my sublist. This is `inline code`.  I really like this rather than having to put \<code> markers.  However, the sublist still uses arabic numbers.  It would be nice to be able to change.
 
 
-
+#### Defintion Lists - Heading 4
 
 I really like using definition lists. However, I don't think they are allowed.  Let's see:
 
@@ -77,3 +77,12 @@ We could then have a list of links at the bottom of the page:
 
 [bbc] (http://www.bbc.co.uk)
 [google] (http://www.google.co.uk)
+
+#### Emphasis
+
+We can use backticks to do `inline code` and we can use _underscores_ or asterisks to to do emphasis. One translates to emphasis in italics, two of either translates to __bold__ or **strong** in HTML terms.
+
+
+### Try out some linking
+
+So 
