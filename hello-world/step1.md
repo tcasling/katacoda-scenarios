@@ -83,16 +83,16 @@ All headings seem to look exactly the same, which is a bit crap.
 
 Now let's have a go at linking:
 
-[bbc] (http://www.bbc.co.uk)
+[bbc](http://www.bbc.co.uk)
 
-[bbclink] [bbc]
-[google link] [google]
+[bbclink][bbc]
+[google link][google]
 
 
 We could then have a list of links at the bottom of the page:
 
-[bbc] (http://www.bbc.co.uk)
-[google] (http://www.google.co.uk)
+[bbc](http://www.bbc.co.uk)
+[google](http://www.google.co.uk)
 
 
 ### What about Tables
