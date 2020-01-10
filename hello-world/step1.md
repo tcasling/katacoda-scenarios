@@ -38,7 +38,7 @@ Now for ordered lists you can use numbers:
 
 The _daringfireball guide_ says to always start them at 1 in case numbering restart is allowed in the future.
 
-One of the issues in mediawiki is that the numbering often restarts and you need to use #: to keep it going. But if you insert a figure it will restart, so you end up having to revert to <ol>
+One of the issues in mediawiki is that the numbering often restarts and you need to use #: to keep it going. But if you insert a figure it will restart, so you end up having to revert to:
 
 1. Here is a list with a second paragraph indented by 4 spaces
 
