@@ -99,7 +99,7 @@ We could then have a list of links at the bottom of the page:
 Link to resource on the same server.  
 
 [LinkToNext](Next)
-[LinkToStep](step2)
+[LinkToStep2](#step-2)
 
 ### What about Tables
 
