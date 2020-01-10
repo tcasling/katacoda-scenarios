@@ -46,3 +46,16 @@ First Term
 
 Second Term
 : Defintion of the second term
+
+Unfortunately that didn't result in a HTML <dl> being created
+
+Now let's have a go at linking:
+
+[link to bbc] [bbc]
+[link to google] [google]
+
+
+We could then have a list of links at the bottom of the page:
+
+[bbc] (http://www.bbc.co.uk)
+[google] (http://www.google.co.uk)
