@@ -65,6 +65,22 @@ Second Term
 
 Unfortunately that didn't result in a HTML <dl> being created
 
+
+#### Emphasis
+
+We can use backticks to do `inline code` and we can use _underscores_ or asterisks to to do emphasis. One translates to emphasis in italics, two of either translates to __bold__ or **strong** in HTML terms.
+
+
+### Try out some linking
+
+So 
+
+#### Headings
+
+All headings seem to look exactly the same, which is a bit crap.
+
+#### Let's try linking
+
 Now let's have a go at linking:
 
 [link to bbc] (http://www.bbc.co.uk)
@@ -78,11 +94,12 @@ We could then have a list of links at the bottom of the page:
 [bbc] (http://www.bbc.co.uk)
 [google] (http://www.google.co.uk)
 
-#### Emphasis
 
-We can use backticks to do `inline code` and we can use _underscores_ or asterisks to to do emphasis. One translates to emphasis in italics, two of either translates to __bold__ or **strong** in HTML terms.
+### What about Tables
 
+I've copied this from https://guides.github.com/features/mastering-markdown/
 
-### Try out some linking
-
-So 
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
